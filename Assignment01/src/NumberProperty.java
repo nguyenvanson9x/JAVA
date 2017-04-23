@@ -4,6 +4,7 @@ public class NumberProperty {
 
 	public static int prime(int n) {
 		System.out.println();
+		System.out.println();
 		int result = 1;
 		if (n <= 0 || n == 1) {
 			result = 0;
