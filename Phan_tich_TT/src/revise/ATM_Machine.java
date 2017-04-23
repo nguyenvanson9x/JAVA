@@ -37,6 +37,7 @@ public class ATM_Machine {
 		for (i = 0; i < n; i++)
 			System.out.print(x[i] + " ");
 		System.out.println();
+		System.out.println();
 	}
 	
 
