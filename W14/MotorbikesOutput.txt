@@ -1,0 +1,5 @@
+Motorbike [maso=X01, ten=Lead 125, hsx=Honda, color=Trang, nsx=20/12/2014, soluong=20, gia=3.8E7, khoiluong=115.0]
+Motorbike [maso=X02, ten=Vision, hsx=Honda, color=Do, nsx=02/01/2013, soluong=10, gia=2.8E7, khoiluong=50.0]
+Motorbike [maso=X03, ten=Dream, hsx=Honda, color=Trang den, nsx=18/10/2010, soluong=15, gia=1.8E7, khoiluong=40.0]
+Motorbike [maso=X07, ten=Air Blade 125, hsx=Honda, color=Do den, nsx=15/01/2012, soluong=15, gia=4.0E7, khoiluong=95.0]
+Motorbike [maso=X09, ten=Wave, hsx=Honda, color=Do, nsx=10/05/2010, soluong=25, gia=1.8E7, khoiluong=45.0]

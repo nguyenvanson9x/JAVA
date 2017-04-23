@@ -1,0 +1,12 @@
+Nguyen Van A
+Tu Son
+HSG
+9.1
+Nguyen Van B
+Bac Ninh
+HSK
+8.2
+Nguyen Van C
+Ha Noi
+HSG
+9.3

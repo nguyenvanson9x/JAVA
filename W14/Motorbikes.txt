@@ -1,0 +1,72 @@
+X01
+Lead 125
+Honda
+20
+Trang
+38000000
+115
+20/12/2014
+X02
+Vision
+Honda
+10
+Do
+28000000
+50
+02/01/2013
+X03
+Dream
+Honda
+15
+Trang den
+18000000
+40
+18/10/2010
+X04
+Nozza
+Yamaha
+24
+Trang sua
+34500000
+60
+20/01/2014
+X05
+Attila
+SYM
+12
+Do
+24500000
+40
+25/02/2012
+X06
+Viva 110
+Suzuki
+10
+Do den
+24000000
+50
+12/11/2011
+X07
+Air Blade 125
+Honda
+15
+Do den
+40000000
+95
+15/01/2012
+X09
+Wave
+Honda
+25
+Do
+18000000
+45
+10/05/2010
+X10
+Jupiter
+Yamaha
+18
+Do trang
+24000000
+40
+11/10/2012
