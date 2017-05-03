@@ -95,16 +95,18 @@ public class Login extends JFrame {
 							if (rs.next()) {
 								if (tfUsername.getText().equals(rs.getString("USERNAME"))
 										&& pfPassword.getPassword().equals(rs.getString("PASSWORD"))) {
+									JOptionPane.showMessageDialog(null, "Hello");
 									MainGUI menu = new MainGUI();
 									dispose();
 									menu.setVisible(true);
 
-									String chucvu = rs.getString("CHUCVU");
+									int chucvu = rs.getInt("CHUCVU");
+									JOptionPane.showMessageDialog(null, "Hello");
 									switch (chucvu) {
-									case "Quan ly":
+									case 1:
 										menu.getBtnHeThong().setEnabled(true);
 										break;
-									case "Nhan vien":
+									case 0:
 										menu.getBtnHeThong().setEnabled(false);
 										break;
 									default:
