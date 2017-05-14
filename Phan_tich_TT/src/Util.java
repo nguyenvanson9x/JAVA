@@ -35,6 +35,7 @@ public class Util {
 		}
 	}
 
+
 	public static void intoBinary(int n) {
 		if (n > 0) {
 			intoBinary(n / 2);
