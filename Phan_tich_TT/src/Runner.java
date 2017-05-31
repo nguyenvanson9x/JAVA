@@ -1,4 +1,5 @@
 
+
 public class Runner {
 	public static void main(String[] args) {
 		Util.phantich_nguyento_2(10);

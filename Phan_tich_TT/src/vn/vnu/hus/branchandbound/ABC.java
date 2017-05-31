@@ -14,6 +14,7 @@ public class ABC {
 			if (X[i - j] != X[i - j - l]) {
 				return 1; // ton tai vi tri lam cho hai day con khac nhau
 			}
+			
 		}
 		return 0; // hai day con lien tiep giong nhau
 	}
@@ -62,7 +63,7 @@ public class ABC {
 	}
 
 	public static void main(String[] args) {
-		n = 10;
+		n = 3;
 		tMin = n;
 		X[0] = 'A';
 		abc(1);
