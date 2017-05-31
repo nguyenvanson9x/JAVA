@@ -4,7 +4,7 @@ public class greedy_bag {
 	private static Integer[] p = { 6, 30, 25, 2 }; // price
 	private static Integer[] w = { 4, 15, 10, 2 }; // weight
 	private static int[] x;
-	private static int n, W = 37;
+	private static int n, W = 30;
 
 	public static void main(String[] args) {
 		n = p.length;
